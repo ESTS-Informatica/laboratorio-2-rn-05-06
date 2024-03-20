@@ -24,7 +24,7 @@ public class Company {
      * Constructor of class Company
      */
     public Company() {
-
+        
     }
 
     /**
