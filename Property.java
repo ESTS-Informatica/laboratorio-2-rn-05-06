@@ -66,6 +66,6 @@ public class Property {
 
     @Override
     public String toString() {
-        return "";
+        return ("Descricao : " + description +  "/n" + "Preco     : "+ price + " Euros");
     }
 }
